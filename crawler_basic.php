@@ -1,5 +1,5 @@
 <?php 
-ini_set('max_execution_time', 0);
+ini_set('max_execution_time', 10);
 class crawler {
     protected $_url;
     protected $_depth;
